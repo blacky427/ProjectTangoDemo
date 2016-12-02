@@ -1,2 +1,3 @@
 # GDG 2016 ProjectTangoDemo
-This project is for google project tango.
+Tango SDK version:  Argentine_Tango (Version 1.47, November 2016).
+Unity version: 5.2.4
